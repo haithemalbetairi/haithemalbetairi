@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haithemalbetairi
 - 👀 I’m interested in Application Development
 - 🌱 I’m currently learning C#, DevOps, Flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on video game projects, be it coding or composing melodies
 - 📫 You can reach me @HaythamButairi on Twitter
 
 <!---
