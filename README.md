@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, DevOps, Flutter
 - 💞️ I’m looking to collaborate on video game projects, be it coding or composing melodies
 - 📫 You can reach me @HaythamButairi on Twitter
-- 🌭 I like sosijs
+- 🌭 I like sosij
 
 <!---
 haithemalbetairi/haithemalbetairi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
