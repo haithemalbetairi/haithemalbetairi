@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @haithemalbetairi
-- 👀 I’m interested in Application Development
-- 🌱 I’m currently learning C#, DevOps, Flutter
-- 💞️ I’m looking to collaborate on video game projects, be it coding or composing melodies
-- 📫 You can reach me @HaythamButairi on Twitter
+- 👀 I'm lookng to expand my app development and data science skills
+- 🌱 I’m currently playing with Python
+- 💞️ I dream of building an indie game and recording an album
+- 📫 Hit me up on @HaythamButairi on Twitter
 - 🌭 I like sosij
 
 <!---
